@@ -44,6 +44,14 @@
     "github": "https://github.com/BlockNG-Foundation"
   },
   {
+    "name": "BabyToken",
+    "desc": "Baby Token Supporting Fee On Transfer",
+    "address": "0xBc8C54821F8Eaf16370F01d23aB05D7cc6E295FB",
+    "symbol": "baby",
+    "decimals": 0,
+    "image": "https://tokens.pancakeswap.finance/images/0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c.png",
+  },
+  {
     "address": "0x48f7d56c057f20668cdbad0a9cd6092b3dc83684",
     "image": "https://marketcap.cash/bch.svg",
     "name": "Wrapped BCH",
