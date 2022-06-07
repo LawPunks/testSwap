@@ -46,9 +46,9 @@
   {
     "name": "BabyToken",
     "desc": "Baby Token Supporting Fee On Transfer",
-    "address": "0x424a74922895BfeD9A04BFFef0d6DAEA8A42988D",
+    "address": "0xD6a33C6D4585ab655f75D196F9fD81fd28D1c0fa",
     "symbol": "baby",
-    "decimals": 0,
+    "decimals": 8,
     "image": "https://tokens.pancakeswap.finance/images/0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c.png"
   },
   {
